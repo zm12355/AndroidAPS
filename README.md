@@ -10,7 +10,6 @@
 [![codecov](https://codecov.io/gh/nightscout/AndroidAPS/branch/master/graph/badge.svg)](https://codecov.io/gh/MilosKozak/AndroidAPS)
 
 
-
 DEV: 
 [![CircleCI](https://circleci.com/gh/nightscout/AndroidAPS/tree/dev.svg?style=svg)](https://circleci.com/gh/nightscout/AndroidAPS/tree/dev)
 [![codecov](https://codecov.io/gh/nightscout/AndroidAPS/branch/dev/graph/badge.svg)](https://codecov.io/gh/MilosKozak/AndroidAPS)
@@ -53,6 +52,7 @@ You need to get the secerts of the key store file to sign your application. For 
 **It's really recommanded that you can sign your apk file with your own key store file after learning some Android knowledge.**
 Please follow these steps:
 * Fork this repository.
+
 * Scan the below QR code and subscribe "一型码农Lex" WeChat Channel.  
 <a href="/Documentation/wechat_qr.png"><img src="/Documentation/wechat_qr.png?raw=true" alt="WeChat Channel QR code" width="340"></a>  
 * Join the WeChat group and ask for the secrets. (Get the WeChat group QR code form the middle menu of "一型码农Lex" WeChat Channel. Scan to join.)
